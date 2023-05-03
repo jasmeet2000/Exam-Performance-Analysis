@@ -12,7 +12,7 @@ library(ggplot2)
 ```
 
 # Introduction
-
+ 
 In the modern education system, evaluating student performance in academic subjects is an essential part of the learning process. Academic assessments provide valuable feedback on the effectiveness of teaching methods, curriculum design, and student learning outcomes. Performance in exams is one of the most common methods used to evaluate student’s understanding of a subject. However, performance in exams can be influenced by various factors, such as student demographics, socio-economic status, and motivation level.
 
 Moreover, the field of education has undergone significant transformation due to technological advancements, globalization, and cultural diversity. With the advent of digital learning, student’s performance evaluation is becoming increasingly data driven. To enhance learning outcomes, educators need to collect and analyze data on various aspects of the educational process, such as student performance, behavior, and learning preferences.
